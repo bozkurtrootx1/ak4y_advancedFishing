@@ -39,7 +39,7 @@ Config.Language = {
 }
 
 Config.Customize = {
-    title = "SUNNY'V",
+    title = "Server Name",
     fishAreaTitle = "Balıklar",
     taskAreaTitle = "Görevleriniz",
     currentXP = "Mevcut XP:",
