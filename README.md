@@ -21,4 +21,4 @@ Script, oyuncuların sadece izin verilen itemleri almasını ve bir hile aracıl
 
 Oyuncular balık tutma noktalarında balık tutabilir ve çeşitli ödüller kazanabilirler. Script, güvenlik kontrolleri sayesinde hileleri engeller ve sunucunun adil bir şekilde işlemesini sağlar.
 
-![Alt text](https://i.imgur.com/LD3JlBA.png)
+![](https://i.imgur.com/LD3JlBA.png)
