@@ -16,6 +16,8 @@ Script, oyuncuların sadece izin verilen itemleri almasını ve bir hile aracıl
 2. **Sunucuda Aktifleştirin**: `server.cfg` dosyanıza şu satırı ekleyin: `ensure ak4y-advancedFishing`
 3. **Anticheat Ayarı**: `server/main.lua` dosyasındaki 466 ve 477. satırlarda bulunan `exports["anticheatname"]` kısmını kendi anticheat dosya isminizle değiştirin. Bu adım, oyuncuları banlama işleminin doğru çalışması için gereklidir.
 4. **Güvenlik Ayarları**: `allowedItems` listesini kendi sunucunuza göre düzenleyin ve hangi itemlerin oyunculara dağıtılabileceğini belirleyin.
+5. **Sunucu İsmi Ayarı**: `config.lua` dosyasındaki 42. satırda bulunan `server name` kısmına kendi sunucu isminizi yazın. Bu, sunucunuzun isminin doğru şekilde görünebilmesi için gereklidir.
+
 
 Oyuncular balık tutma noktalarında balık tutabilir ve çeşitli ödüller kazanabilirler. Script, güvenlik kontrolleri sayesinde hileleri engeller ve sunucunun adil bir şekilde işlemesini sağlar.
 
